@@ -1,0 +1,14 @@
+target/*
+.idea/
+.settings/
+.svn/
+.inspectionProfiles/
+META-INF/
+out/*
+artifacts/*
+.classpath
+.project
+*.iml
+*.patch
+/target/
+/.apt_generated/
